@@ -14,7 +14,7 @@
 |2 |2025/04/14 |[確率モデルと機械学習](slide/MachineLearning2025_02.pdf) / [副教材2](slide/ml2025intro_02.pdf)|
 |3 |2025/04/21 |[教師あり学習（回帰モデル）](slide/MachineLearning2025_03.pdf) / [副教材3](slide/ml2025intro_03.pdf)|
 |4 |2025/04/28 |[教師あり学習（分類モデル）](slide/MachineLearning2025_04.pdf) / [副教材4](slide/ml2025intro_04.pdf)|
-|5 |2025/05/12 |アンサンブル学習|
+|5 |2025/05/12 |[アンサンブル学習](slide/MachineLearning2025_05.pdf) / [副教材5](slide/ml2025intro_05.pdf)|
 |6 |2025/05/19 |演習1|
 |7 |2025/05/26 |ニューラルネットの基礎|
 |8 |2025/06/02 |ディープラーニング（深層学習）|
