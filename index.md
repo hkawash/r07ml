@@ -16,7 +16,7 @@
 |4 |2025/04/28 |[教師あり学習（分類モデル）](slide/MachineLearning2025_04.pdf) / [副教材4](slide/ml2025intro_04.pdf)|
 |5 |2025/05/12 |[アンサンブル学習](slide/MachineLearning2025_05.pdf) / [副教材5](slide/ml2025intro_05.pdf) / [レポート1解答](slide/MachineLearning2025_report1_answer.pdf) / [宿題解答](slide/MachineLearning2025_04-05_suppl.pdf)|
 |6 |2025/05/19 |[演習1](slide/MachineLearning2025_06.pdf)|
-|7 |2025/05/26 |[ニューラルネットの基礎](slide/MachineLearning2025_07.pdf) / [副教材6](slide/ml2025intro_06.pdf)|
+|7 |2025/05/26 |[ニューラルネットの基礎](slide/MachineLearning2025_07.pdf) / [副教材6](slide/ml2025intro_06.pdf) / [宿題1解答](slide/MachineLearning2025_07_hw1.pdf)|
 |8 |2025/06/02 |[ディープラーニング（深層学習）](slide/MachineLearning2025_08.pdf)|
 |9 |2025/06/09 |[演習2](slide/MachineLearning2025_09.pdf)|
 |10|2025/06/16 |[畳み込みニューラルネット](slide/MachineLearning2025_10.pdf)|
@@ -28,7 +28,7 @@
 |16|2025/0?/?? |評価（到達度の確認）|
 
 <!-- 
-|7 |2025/05/26 |[ニューラルネットの基礎](slide/MachineLearning2025_07.pdf) / [副教材6](slide/ml2025intro_06.pdf) / [宿題1解答](slide/MachineLearning2025_07_hw1.pdf)|
+
 |11|2025/06/23 |[演習3](slide/MachineLearning2025_11.pdf)|
 |12|2025/06/30 |[生成モデル](slide/MachineLearning2025_12.pdf)|
 |13|2025/07/07 |[系列データを扱うモデル](slide/MachineLearning2025_13.pdf)|
