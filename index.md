@@ -22,16 +22,12 @@
 |10|2025/06/16 |[畳み込みニューラルネット](slide/MachineLearning2025_10.pdf)|
 |11|2025/06/23 |[演習3](slide/MachineLearning2025_11.pdf)|
 |12|2025/06/30 |[生成モデル](slide/MachineLearning2025_12.pdf)|
-|13|2025/07/07 |系列データを扱うモデル|
-|14|2025/07/14 |強化学習|
+|13|2025/07/07 |[系列データを扱うモデル](slide/MachineLearning2025_13.pdf)|
+|14|2025/07/14 |[強化学習](slide/MachineLearning2025_14.pdf)|
 |15|2025/07/21 |まとめと発展的話題|
 |16|2025/0?/?? |評価（到達度の確認）|
 
 <!-- 
-
-|12|2025/06/30 |[生成モデル](slide/MachineLearning2025_12.pdf)|
-|13|2025/07/07 |[系列データを扱うモデル](slide/MachineLearning2025_13.pdf)|
-|14|2025/07/14 |[強化学習](slide/MachineLearning2025_14.pdf)|
 |15|2025/07/21 |[まとめと発展的話題](slide/MachineLearning2025_15.pdf)|
 |16|2025/0?/?? |評価（到達度の確認）|
  -->
